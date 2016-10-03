@@ -27,7 +27,7 @@ namespace MTSimplified
             Console.ReadLine();
             threadO.stopAll();
 
-            while (true) ;
+            while (true) ; //comment
         }
 
 
